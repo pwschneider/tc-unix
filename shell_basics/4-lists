@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -la $PWD
+ls -la $OLDPWD
+ls -la /boot
