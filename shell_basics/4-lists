@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -f -la $PWD $OLDPWD /boot
+ls -f -la . .. /boot
